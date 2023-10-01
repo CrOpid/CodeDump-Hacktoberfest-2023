@@ -1,4 +1,7 @@
 # CodeDump-Hacktoberfest-2023
+
+- **Do Follow _@Khushal-ag_ for some amazing projects**
+
 <br>
 <div align="center">
 
@@ -46,7 +49,6 @@ git checkout -b <your_branch_name>
 ```
 
 8. Perfom your desired changes to the code base.
-
 
 9. Track your changes
 
