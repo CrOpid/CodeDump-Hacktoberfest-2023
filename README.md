@@ -1,6 +1,10 @@
 # CodeDump-Hacktoberfest-2023
+<br>
+<div align="center">
 
-<h1 align="center">Contributing to Events | Projects | Programs</h1>
+# Contributing to Events | Projects | Programs
+
+</div>
 
 ## 🛠️ Installation Steps
 
