@@ -1,6 +1,6 @@
 # CodeDump-Hacktoberfest-2023
 
-- **Do Follow _@Khushal-ag_ for some amazing projects**
+- **Do Follow _[@Khushal-ag](https://github.com/Khushal-ag)_ for some amazing projects**
 
 <br>
 <div align="center">
